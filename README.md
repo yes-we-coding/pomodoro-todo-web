@@ -2,7 +2,13 @@
 
 轻量、离线优先的番茄钟 + 待办应用**网页版**。可安装到手机/桌面主屏幕，离线也能用。
 
-> 在线使用：**https://yes-we-coding.github.io/pomodoro-todo-web/**
+[![在线使用](https://img.shields.io/badge/在线使用-点击打开-ff6b5e)](https://yes-we-coding.github.io/pomodoro-todo-web/)
+[![License](https://img.shields.io/github/license/yes-we-coding/pomodoro-todo-web)](LICENSE)
+
+> 🌐 **在线使用（推荐）：** https://yes-we-coding.github.io/pomodoro-todo-web/
+>
+> 🖥️ **想要桌面版？** 下载免安装单文件 exe：[pomodoro-todo Releases](https://github.com/yes-we-coding/pomodoro-todo/releases/latest)
+> 源码：[pomodoro-todo](https://github.com/yes-we-coding/pomodoro-todo)
 
 ## ✨ 功能
 
